@@ -15,9 +15,9 @@ Right now I'm working on three projects across two GitHub orgs.
 
 | Project | What it does | Links |
 |---------|-------------|-------|
-| **BitSleuth Analyzer** | Web app — paste a Bitcoin address, get AI-driven transaction graphs, OPSEC risk flags, and privacy reports | [Live App](https://app.bitsleuth.ai) · [Org](https://github.com/BitSleuthAI) |
+| **BitSleuth Analyzer** | Web app - paste a Bitcoin address, get AI-driven transaction graphs, OPSEC risk flags, and privacy reports | [Live App](https://app.bitsleuth.ai) · [Org](https://github.com/BitSleuthAI) |
 | **BitSleuth Wallet** | Open-source, non-custodial Bitcoin wallet for iOS & Android | [Source](https://github.com/BitSleuthAI/Wallet) · [Info](https://www.bitsleuth.ai/wallet) |
-| **Pingara** | Website monitoring — uptime, performance, SSL certs, multi-region checks, status pages | [Website](https://www.pingara.io) · [Org](https://github.com/Pingara) |
+| **Pingara** | Website monitoring - uptime, performance, SSL certs, multi-region checks, status pages | [Website](https://www.pingara.io) · [Org](https://github.com/Pingara) |
 
 ---
 
@@ -25,20 +25,20 @@ Right now I'm working on three projects across two GitHub orgs.
 
 > **Org:** [BitSleuthAI](https://github.com/BitSleuthAI) &nbsp;·&nbsp; [bitsleuth.ai](https://www.bitsleuth.ai)
 
-Two projects under one name — a wallet analyzer and an open-source mobile wallet. Both focused on Bitcoin, privacy, and self-sovereignty.
+Two projects under one name - a wallet analyzer and an open-source mobile wallet. Both focused on Bitcoin, privacy, and self-sovereignty.
 
 ### Wallet Analyzer &nbsp;→&nbsp; [app.bitsleuth.ai](https://app.bitsleuth.ai)
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js) ![AI](https://img.shields.io/badge/AI--Powered-blue)
 
-Paste any Bitcoin address and get an instant breakdown — no sign-up, no tracking.
+Paste any Bitcoin address and get an instant breakdown - no sign-up, no tracking.
 
 <details>
 <summary><strong>Features</strong></summary>
 
 - Transaction flow graphs and fund-flow maps
 - Balance history charts
-- Plain-language AI answers — *"Where did these coins come from?"*
+- Plain-language AI answers - *"Where did these coins come from?"*
 - OPSEC risk detection (address reuse, peel chains, etc.)
 - On-chain privacy risk reports
 - Currently free while in beta
@@ -54,9 +54,9 @@ A non-custodial Bitcoin wallet for iOS and Android. Your keys, your coins, no mi
 <details>
 <summary><strong>Features</strong></summary>
 
-- Recovery phrase generated and encrypted on-device — keys never leave the phone
+- Recovery phrase generated and encrypted on-device - keys never leave the phone
 - BIP32/39/84 · Native SegWit (Bech32) addresses
-- Coin control — view, select, and freeze individual UTXOs
+- Coin control - view, select, and freeze individual UTXOs
 - RBF and CPFP fee bumping
 - Biometric auth, PIN, passkey/WebAuthn, auto-lock
 - Multiple wallets with custom colour themes
@@ -70,7 +70,9 @@ A non-custodial Bitcoin wallet for iOS and Android. Your keys, your coins, no mi
 
 > **Org:** [Pingara](https://github.com/Pingara) &nbsp;·&nbsp; [pingara.io](https://www.pingara.io)
 
-A monitoring platform that watches your websites and services around the clock — uptime, performance, and SSL certificates.
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) ![AI](https://img.shields.io/badge/AI--Powered-blue)
+
+A monitoring platform that watches your websites and services around the clock - uptime, performance, and SSL certificates.
 
 <details>
 <summary><strong>Features</strong></summary>
