@@ -6,7 +6,7 @@ Right now I'm working on three projects across two GitHub orgs.
 </p>
 
 <p align="center">
-  <a href="https://www.bitsleuth.ai">bitsleuth.ai</a> · <a href="https://www.pingara.io">pingara.io</a>
+  <a href="https://www.bitsleuth.ai">bitsleuth.ai</a> · <a href="https://www.pingara.io">pingara.io</a> · <a href="https://bitsleuthai.wordpress.com/">Blog</a>
 </p>
 
 ---
@@ -90,5 +90,6 @@ A monitoring platform that watches your websites and services around the clock �
 
 <p align="center">
   🐛 <strong>Found a bug?</strong> Open an issue in the relevant repo<br>
-  💡 <strong>Got an idea?</strong> <a href="https://github.com/BitSleuthAI/.github/discussions">BitSleuth Discussions</a>
+  💡 <strong>Got an idea?</strong> <a href="https://github.com/BitSleuthAI/.github/discussions">BitSleuth Discussions</a><br>
+  📝 <strong>Building in public:</strong> <a href="https://bitsleuthai.wordpress.com/">bitsleuthai.wordpress.com</a>
 </p>
