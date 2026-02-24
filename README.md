@@ -4,52 +4,54 @@ I'm James — a developer building tools around **Bitcoin** and **web infrastruc
 
 ---
 
-### 🔍 BitSleuth — AI-Powered Bitcoin Analysis & Wallet
+### 🔍 BitSleuth — Bitcoin Analysis & Wallet
 
 > **Org:** [BitSleuthAI](https://github.com/BitSleuthAI) &nbsp;|&nbsp; **Web:** [bitsleuth.ai](https://www.bitsleuth.ai)
 
-One brand, two powerful tools — built for Bitcoiners who value transparency, privacy, and sovereignty. Bitcoin only. Free to use. No KYC.
+Two projects under the BitSleuth name — a web-based wallet analyzer and an open-source mobile wallet.
 
 #### 📊 Wallet Analyzer &nbsp;•&nbsp; [app.bitsleuth.ai](https://app.bitsleuth.ai)
 
-A web app for investigating any Bitcoin wallet address with AI-driven insights — no registration required.
+A web app for investigating Bitcoin wallet addresses using AI. Paste an address and get:
 
-- **Interactive visualisations** — transaction flow graphs, balance history charts, and fund-flow maps
-- **AI-powered explanations** — ask questions in plain language like *"Where did these coins come from?"* and get instant answers
-- **OPSEC threat detection** — automatically spot risks such as address reuse and peel chains
-- **Privacy risk reports** — actionable insights on potential on-chain privacy vulnerabilities
-- **Free during beta** — full access with no sign-up, 100% private
+- Transaction flow graphs, balance history charts, and fund-flow maps
+- Plain-language AI answers to questions like *"Where did these coins come from?"*
+- OPSEC risk detection — flags things like address reuse and peel chains
+- On-chain privacy risk reports
 
-#### 📱 BitSleuth Wallet &nbsp;•&nbsp; [Open Source](https://github.com/BitSleuthAI/Wallet) &nbsp;•&nbsp; iOS & Android
+No sign-up required. Currently free while in beta.
 
-A professional-grade, non-custodial Bitcoin mobile wallet built with React Native, Expo, and TypeScript.
+#### 📱 BitSleuth Wallet &nbsp;•&nbsp; [Source Code](https://github.com/BitSleuthAI/Wallet) &nbsp;•&nbsp; iOS & Android
 
-- **Complete self-custody** — your recovery phrase is generated and encrypted on-device; private keys are never stored or transmitted
-- **BIP32/39/84 compliant** — Native SegWit (Bech32) addresses for lower fees
-- **UTXO management** — view, select, and freeze individual UTXOs for coin control
-- **Fee bumping** — Replace-By-Fee (RBF) and Child-Pays-For-Parent (CPFP) support
-- **Multi-layer security** — biometric auth (Face ID / Touch ID), PIN protection, passkey/WebAuthn support, and auto-lock
-- **Multi-wallet** — create and switch between unlimited wallets with custom themes
-- **Privacy first** — no email sign-ups, no tracking, no analytics — just you and your keys
-- **Licensed under AGPL-3.0** — fully open source
+A non-custodial Bitcoin wallet built with React Native, Expo, and TypeScript.
+
+- Self-custody — recovery phrase generated and encrypted on-device; keys never leave the phone
+- BIP32/39/84 with Native SegWit (Bech32) addresses
+- Coin control — view, select, and freeze individual UTXOs
+- RBF and CPFP fee bumping
+- Biometric auth, PIN, passkey/WebAuthn, auto-lock
+- Multiple wallets with custom colour themes
+- No accounts, no tracking, no analytics
+- Open source (AGPL-3.0)
 
 ---
 
-### 📡 Pingara — Real-Time Website Monitoring
+### 📡 Pingara — Website Monitoring
 
 > **Org:** [Pingara](https://github.com/Pingara) &nbsp;|&nbsp; **Web:** [pingara.io](https://www.pingara.io)
 
-An affordable, full-featured monitoring platform for websites and services — from solo projects to enterprise infrastructure.
+A monitoring platform that tracks uptime, performance, and SSL certificate validity for websites and services.
 
-- **URL monitoring** — HTTP/HTTPS checks from 30-second to 60-minute intervals with keyword and status-code validation
-- **Multi-region with quorum** — monitors from US, EU, and APAC regions with intelligent quorum rules to reduce false positives
-- **Alerting** — instant notifications via Email, Slack, and Webhooks with escalation policies and alert deduplication
-- **Dashboards & reporting** — latency charts (p50/p95/p99), SLA/uptime tracking, and historical performance trends
-- **SSL certificate monitoring** — track expiry dates and get notified before certificates lapse
-- **Apdex scoring** — measure real user satisfaction with configurable performance thresholds
-- **AI root-cause hints** — AI-driven suggestions analysing DNS, TCP, and TLS timing breakdowns to speed up investigations
-- **Status pages** — branded, SEO-friendly public pages showing service health, uptime history, and active incidents
-- **Free tier available** — 5 monitors, 5-minute intervals, 7-day retention; Pro at $9/mo for 50 monitors, 30s intervals, and 1-year retention
+- HTTP/HTTPS endpoint checks at configurable intervals (30s – 60min) with keyword and status-code validation
+- Multi-region monitoring (US, EU, APAC) with quorum-based status to reduce false positives
+- Alerts via Email, Slack, and Webhooks — supports escalation and deduplication
+- Latency dashboards (p50/p95/p99), uptime/SLA tracking, and historical trends
+- SSL certificate expiry notifications
+- Apdex scoring with configurable thresholds
+- AI-assisted root-cause hints based on DNS, TCP, and TLS timing
+- Public status pages for communicating service health
+
+Has a free tier and a paid plan — details on the website.
 
 ---
 
