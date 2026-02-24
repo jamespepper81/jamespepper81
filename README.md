@@ -1,61 +1,94 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm James 👋</h1>
 
-I'm James — a developer building tools around **Bitcoin** and **web infrastructure monitoring**. Here's what I'm working on:
+<p align="center">
+I build tools around <strong>Bitcoin</strong> and <strong>web infrastructure</strong>.<br>
+Right now I'm working on three projects across two GitHub orgs.
+</p>
+
+<p align="center">
+  <a href="https://www.bitsleuth.ai">bitsleuth.ai</a> · <a href="https://www.pingara.io">pingara.io</a>
+</p>
 
 ---
 
-### 🔍 BitSleuth — Bitcoin Analysis & Wallet
+## What I'm Building
 
-> **Org:** [BitSleuthAI](https://github.com/BitSleuthAI) &nbsp;|&nbsp; **Web:** [bitsleuth.ai](https://www.bitsleuth.ai)
+| Project | What it does | Links |
+|---------|-------------|-------|
+| **BitSleuth Analyzer** | Web app — paste a Bitcoin address, get AI-driven transaction graphs, OPSEC risk flags, and privacy reports | [Live App](https://app.bitsleuth.ai) · [Org](https://github.com/BitSleuthAI) |
+| **BitSleuth Wallet** | Open-source, non-custodial Bitcoin wallet for iOS & Android | [Source](https://github.com/BitSleuthAI/Wallet) · [Info](https://www.bitsleuth.ai/wallet) |
+| **Pingara** | Website monitoring — uptime, performance, SSL certs, multi-region checks, status pages | [Website](https://www.pingara.io) · [Org](https://github.com/Pingara) |
 
-Two projects under the BitSleuth name — a web-based wallet analyzer and an open-source mobile wallet.
+---
 
-#### 📊 Wallet Analyzer &nbsp;•&nbsp; [app.bitsleuth.ai](https://app.bitsleuth.ai)
+## 🔍 BitSleuth
 
-A web app for investigating Bitcoin wallet addresses using AI. Paste an address and get:
+> **Org:** [BitSleuthAI](https://github.com/BitSleuthAI) &nbsp;·&nbsp; [bitsleuth.ai](https://www.bitsleuth.ai)
 
-- Transaction flow graphs, balance history charts, and fund-flow maps
-- Plain-language AI answers to questions like *"Where did these coins come from?"*
-- OPSEC risk detection — flags things like address reuse and peel chains
+Two projects under one name — a wallet analyzer and an open-source mobile wallet. Both focused on Bitcoin, privacy, and self-sovereignty.
+
+### Wallet Analyzer &nbsp;→&nbsp; [app.bitsleuth.ai](https://app.bitsleuth.ai)
+
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js) ![AI](https://img.shields.io/badge/AI--Powered-blue)
+
+Paste any Bitcoin address and get an instant breakdown — no sign-up, no tracking.
+
+<details>
+<summary><strong>Features</strong></summary>
+
+- Transaction flow graphs and fund-flow maps
+- Balance history charts
+- Plain-language AI answers — *"Where did these coins come from?"*
+- OPSEC risk detection (address reuse, peel chains, etc.)
 - On-chain privacy risk reports
+- Currently free while in beta
 
-No sign-up required. Currently free while in beta.
+</details>
 
-#### 📱 BitSleuth Wallet &nbsp;•&nbsp; [Source Code](https://github.com/BitSleuthAI/Wallet) &nbsp;•&nbsp; iOS & Android
+### Wallet &nbsp;→&nbsp; [Source Code](https://github.com/BitSleuthAI/Wallet)
 
-A non-custodial Bitcoin wallet built with React Native, Expo, and TypeScript.
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react) ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![License](https://img.shields.io/badge/License-AGPL--3.0-blue)
 
-- Self-custody — recovery phrase generated and encrypted on-device; keys never leave the phone
-- BIP32/39/84 with Native SegWit (Bech32) addresses
+A non-custodial Bitcoin wallet for iOS and Android. Your keys, your coins, no middleman.
+
+<details>
+<summary><strong>Features</strong></summary>
+
+- Recovery phrase generated and encrypted on-device — keys never leave the phone
+- BIP32/39/84 · Native SegWit (Bech32) addresses
 - Coin control — view, select, and freeze individual UTXOs
 - RBF and CPFP fee bumping
 - Biometric auth, PIN, passkey/WebAuthn, auto-lock
 - Multiple wallets with custom colour themes
 - No accounts, no tracking, no analytics
-- Open source (AGPL-3.0)
+
+</details>
 
 ---
 
-### 📡 Pingara — Website Monitoring
+## 📡 Pingara
 
-> **Org:** [Pingara](https://github.com/Pingara) &nbsp;|&nbsp; **Web:** [pingara.io](https://www.pingara.io)
+> **Org:** [Pingara](https://github.com/Pingara) &nbsp;·&nbsp; [pingara.io](https://www.pingara.io)
 
-A monitoring platform that tracks uptime, performance, and SSL certificate validity for websites and services.
+A monitoring platform that watches your websites and services around the clock — uptime, performance, and SSL certificates.
 
-- HTTP/HTTPS endpoint checks at configurable intervals (30s – 60min) with keyword and status-code validation
-- Multi-region monitoring (US, EU, APAC) with quorum-based status to reduce false positives
-- Alerts via Email, Slack, and Webhooks — supports escalation and deduplication
-- Latency dashboards (p50/p95/p99), uptime/SLA tracking, and historical trends
+<details>
+<summary><strong>Features</strong></summary>
+
+- HTTP/HTTPS checks at configurable intervals (30s – 60min) with keyword and status-code validation
+- Multi-region monitoring (US, EU, APAC) with quorum-based decisions to cut false positives
+- Alerts via Email, Slack, and Webhooks with escalation and deduplication
+- Latency dashboards (p50/p95/p99), uptime/SLA tracking, historical trends
 - SSL certificate expiry notifications
 - Apdex scoring with configurable thresholds
-- AI-assisted root-cause hints based on DNS, TCP, and TLS timing
-- Public status pages for communicating service health
+- AI-assisted root-cause hints from DNS, TCP, and TLS timing
+- Branded public status pages
 
-Has a free tier and a paid plan — details on the website.
+</details>
 
 ---
 
-### 📬 Get in Touch
-
-- 🐛 **Bug reports:** Open an issue in the relevant repo
-- 💡 **Ideas & feedback:** [BitSleuth Discussions](https://github.com/BitSleuthAI/.github/discussions)
+<p align="center">
+  🐛 <strong>Found a bug?</strong> Open an issue in the relevant repo<br>
+  💡 <strong>Got an idea?</strong> <a href="https://github.com/BitSleuthAI/.github/discussions">BitSleuth Discussions</a>
+</p>
