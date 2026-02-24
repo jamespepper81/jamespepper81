@@ -70,7 +70,7 @@ A non-custodial Bitcoin wallet for iOS and Android. Your keys, your coins, no mi
 
 > **Org:** [Pingara](https://github.com/Pingara) &nbsp;·&nbsp; [pingara.io](https://www.pingara.io)
 
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js) ![AI](https://img.shields.io/badge/AI--Powered-blue)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) ![AI](https://img.shields.io/badge/AI--Powered-blue)
 
 A monitoring platform that watches your websites and services around the clock - uptime, performance, and SSL certificates.
 
