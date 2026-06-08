@@ -15,7 +15,7 @@ Right now I'm working on three projects across two GitHub orgs.
 
 | Project | What it does | Links |
 |---------|-------------|-------|
-| **BitSleuth Analyzer** | Web app - paste a Bitcoin address, get AI-driven transaction graphs, OPSEC risk flags, and privacy reports | [Live App](https://app.bitsleuth.ai) · [Org](https://github.com/BitSleuthAI) |
+| **BitSleuth Analyzer** | Open-source web app - paste a Bitcoin address, get AI-driven transaction graphs, OPSEC risk flags, and privacy reports | [Live App](https://app.bitsleuth.ai) · [Org](https://github.com/BitSleuthAI) |
 | **BitSleuth Wallet** | Open-source, non-custodial Bitcoin wallet for iOS & Android | [Source](https://github.com/BitSleuthAI/Wallet) · [Info](https://www.bitsleuth.ai/wallet) |
 | **Pingara** | Website monitoring - uptime, performance, SSL certs, multi-region checks, status pages | [Website](https://www.pingara.io) · [Org](https://github.com/Pingara) |
 
@@ -25,7 +25,7 @@ Right now I'm working on three projects across two GitHub orgs.
 
 > **Org:** [BitSleuthAI](https://github.com/BitSleuthAI) &nbsp;·&nbsp; [bitsleuth.ai](https://www.bitsleuth.ai)
 
-Two projects under one name - a wallet analyzer and an open-source mobile wallet. Both focused on Bitcoin, privacy, and self-sovereignty.
+Two open-source projects under one name - a wallet analyzer and a mobile wallet. Both focused on Bitcoin, privacy, and self-sovereignty.
 
 ### Wallet Analyzer &nbsp;→&nbsp; [app.bitsleuth.ai](https://app.bitsleuth.ai)
 
