@@ -16,7 +16,7 @@ Right now I'm working on three projects across two GitHub orgs.
 | Project | What it does | Links |
 |---------|-------------|-------|
 | **BitSleuth Analyzer** | Open-source web app - paste a Bitcoin address, get AI-driven transaction graphs, OPSEC risk flags, and privacy reports | [Live App](https://app.bitsleuth.ai) · [Org](https://github.com/BitSleuthAI) |
-| **BitSleuth Wallet** | Open-source, non-custodial Bitcoin wallet for iOS & Android | [Source](https://github.com/BitSleuthAI/Wallet) · [Info](https://www.bitsleuth.ai/wallet) |
+| **BitSleuth Wallet** | Open-source, non-custodial Bitcoin wallet for iOS & Android | [Source](https://github.com/jamespepper81/Wallet) · [Info](https://www.bitsleuth.ai/wallet) |
 | **Pingara** | Website monitoring - uptime, performance, SSL certs, multi-region checks, status pages | [Website](https://www.pingara.io) · [Org](https://github.com/Pingara) |
 
 ---
@@ -45,7 +45,7 @@ Paste any Bitcoin address and get an instant breakdown - no sign-up, no tracking
 
 </details>
 
-### Wallet &nbsp;→&nbsp; [Source Code](https://github.com/BitSleuthAI/Wallet)
+### Wallet &nbsp;→&nbsp; [Source Code](https://github.com/jamespepper81/Wallet)
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react) ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![License](https://img.shields.io/badge/License-AGPL--3.0-blue)
 
@@ -92,6 +92,5 @@ A monitoring platform that watches your websites and services around the clock -
 
 <p align="center">
   🐛 <strong>Found a bug?</strong> Open an issue in the relevant repo<br>
-  💡 <strong>Got an idea?</strong> <a href="https://github.com/BitSleuthAI/.github/discussions">BitSleuth Discussions</a><br>
   📝 <strong>Building in public:</strong> <a href="https://bitsleuthai.wordpress.com/">bitsleuthai.wordpress.com</a>
 </p>
